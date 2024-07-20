@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Typo972
+- 👋 Hi, I’m @HerveyEUDARIC
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning PHP with Symfony
 - 💞️ I’m looking to collaborate on all you want
